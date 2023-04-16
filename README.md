@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpita Kasaudhan</h1>
 <h3 align="center">A Btech CSE Student</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fkids-coding&psig=AOvVaw3C25C8oESRajqlefOEq9HL&ust=1681757465905000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMDZ7vSIr_4CFQAAAAAdAAAAABAE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpita110&label=Profile%20views&color=0e75b6&style=flat" alt="arpita110" /> </p>
 
@@ -14,11 +13,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arpita-kasaudhan-09b766211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arpita-kasaudhan-09b766211/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/arpita_kasaudhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/arpita_kasaudhan/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/arpitakasaudhan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/arpitakasaudhan1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/arpita_18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/arpita_18/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/arpitakasaudhan2019/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/arpitakasaudhan2019/profile" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arpita kasaudhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpita kasaudhan" height="30" width="40" /></a>
+<a href="https://instagram.com/arpita_kasaudhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arpita_kasaudhan" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/arpitakasaudhan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arpitakasaudhan1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/arpita_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arpita_18" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/arpitakasaudhan2019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arpitakasaudhan2019" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
