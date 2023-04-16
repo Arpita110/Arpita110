@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arpita Kasaudhan</h1>
 <h3 align="center">A Btech CSE Student</h3>
-<img align="right" alt="Coding" width="400" src="https://www.behance.net/gallery/116770475/Animated-illustrations">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fkids-coding&psig=AOvVaw3C25C8oESRajqlefOEq9HL&ust=1681757465905000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMDZ7vSIr_4CFQAAAAAdAAAAABAE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpita110&label=Profile%20views&color=0e75b6&style=flat" alt="arpita110" /> </p>
 
